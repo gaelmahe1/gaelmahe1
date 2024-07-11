@@ -39,7 +39,7 @@ Création d'un site vitrine pour une entreprise d'installation de climatisation 
 - **Technologies** : ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff), ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff), ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
 - **Fonctionnalités** : Présentation des services, Galerie de réalisations, Formulaire de contact
 
-### [Projet 3 : Back-Office Plateforme E-commerce](https://github.com/gaelmahe1/ecommerce-platform)
+### [Projet 3 : Back-Office Plateforme E-commerce](https://github.com/gaelmahe1/React_backoffice)
 Un Back-office e-commerce entièrement fonctionnelle avec authentification des utilisateurs et intégration de paiements.
 
 - **Technologies** : ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000), ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=fff), ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
