@@ -27,7 +27,7 @@ Bienvenue sur mon profil GitHub ! Je suis Gaël Mahé, un développeur web passi
 
 ## 🌟 Projets
 
-### [Projet 1 : Site de Réseaux Sociaux](https://github.com/gaelmahe1/social-media-platform)
+### [Projet 1 : Site de Réseaux Sociaux](https://github.com/gaelmahe1/Social-Media)
 Développement d'une plateforme de réseaux sociaux permettant aux utilisateurs de se connecter, partager et interagir.
 
 - **Technologies** : ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff), ![shadcn](https://img.shields.io/badge/-shadcn-000?logo=shadcn&logoColor=fff), ![Appwrite](https://img.shields.io/badge/-Appwrite-F02E65?logo=appwrite&logoColor=fff), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff)
