@@ -56,8 +56,8 @@ Un système de gestion de contenu pour créer et gérer des articles de blog.
 ## 📫 Contact
 
 - **Email** : [gaelmahe1@hotmail.com](mailto:gaelmahe1@hotmail.com)
-- **LinkedIn** : [Gaël Mahé]([https://www.linkedin.com/in/gaelmahe](https://www.linkedin.com/in/gael-mahe-3283521a3/))
-- **Instagram** : [@gaelmahe](https://www.instagram.com/gael_mahe)
+- **LinkedIn** : [Gaël Mahé](https://www.linkedin.com/in/gael-mahe-3283521a3/)
+- **Instagram** : [@gael_mahe](https://www.instagram.com/gael_mahe)
 
 ---
 
