@@ -45,7 +45,7 @@ Un Back-office e-commerce entièrement fonctionnelle avec authentification des u
 - **Technologies** : ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000), ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=fff), ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=000), ![Material UI](https://img.shields.io/badge/-Material--UI-0081CB?logo=material-ui&logoColor=fff), ![Sass](https://img.shields.io/badge/-Sass-CC6699?logo=sass&logoColor=fff)
 - **Fonctionnalités** : Inscription des utilisateurs, Gestion des produits, Traitement des commandes
 
-### [Projet 4 : Système de Blog](https://github.com/gaelmahe1/blogging-system)
+### [Projet 4 : Système de Blog](https://github.com/gaelmahe1/Flask-Blog_App)
 Un système de gestion de contenu pour créer et gérer des articles de blog.
 
 - **Technologies** : ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff), ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff), ![Flask](https://img.shields.io/badge/-Flask-000?logo=flask&logoColor=fff), ![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
